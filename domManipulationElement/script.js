@@ -15,13 +15,14 @@
 
 //class list
 //element.classList.add();
-const p2 = document.querySelector('.p2');
-p2.classList.add('label');
+// const p2 = document.querySelector('.p2');
+// p2.classList.add('label');
 
-//element.classList.remove();
-p2.classList.remove('label');
+// //element.classList.remove();
+// p2.classList.remove('label');
 
-//element.classList.toggle(); ->seperti lampu
-p2.classList.toggle('label');
+// //element.classList.toggle(); ->seperti lampu
+// p2.classList.toggle('label');
 
 //element.classList.item(<ke-berapa>);
+//element.classList.contain(<yang mau di cari>);
